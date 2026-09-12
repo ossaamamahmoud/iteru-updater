@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "product": "Iteru",
+  "channel": "pilot",
+  "version": "0.2.0",
+  "releaseTag": "v0.2.0",
+  "publishedAt": "2026-09-12T13:38:04+00:00",
+  "required": false,
+  "allowDowngrade": false,
+  "packages": {
+    "Iteru-0.2.0-full.nupkg": "sha256:9178a578854b1b7bef03d19215c2177308323451348541f30dca1d9fb30b15f6"
+  },
+  "installer": {
+    "Iteru-win-Setup.exe": "sha256:74f6ba863457c4307d24dd914bda69b11260f47364b23db141a852234d474ce9"
+  }
+}
