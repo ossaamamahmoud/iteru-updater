@@ -2,15 +2,17 @@
   "schema": 1,
   "product": "Iteru",
   "channel": "stable",
-  "version": "0.2.0",
-  "releaseTag": "v0.2.0",
-  "publishedAt": "2026-09-12T13:56:11+00:00",
+  "version": "0.2.1",
+  "releaseTag": "v0.2.1",
+  "publishedAt": "2026-09-12T17:32:57+00:00",
   "required": false,
   "allowDowngrade": false,
   "packages": {
-    "Iteru-0.2.0-full.nupkg": "sha256:9178a578854b1b7bef03d19215c2177308323451348541f30dca1d9fb30b15f6"
+    "Iteru-0.2.0-full.nupkg": "sha256:9178a578854b1b7bef03d19215c2177308323451348541f30dca1d9fb30b15f6",
+    "Iteru-0.2.1-delta.nupkg": "sha256:2b874ea053fe1950f7a7706248916a1e11e420b0f27354c757a95bc46b7b0b4b",
+    "Iteru-0.2.1-full.nupkg": "sha256:7eacb4542ca615e1db942e0dfe439551d13f2be29f919cb6a97857ea5e145e1d"
   },
   "installer": {
-    "Iteru-win-Setup.exe": "sha256:74f6ba863457c4307d24dd914bda69b11260f47364b23db141a852234d474ce9"
+    "Iteru-win-Setup.exe": "sha256:dcbbff20a084b043c2c85537d1ab51ef49aabf0862a633b169ad8a420e3cb65b"
   }
 }
