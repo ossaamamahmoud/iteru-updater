@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "product": "Iteru",
+  "channel": "pilot",
+  "version": "0.3.0",
+  "releaseTag": "v0.3.0",
+  "publishedAt": "2026-09-13T11:37:00+00:00",
+  "sequence": 1,
+  "expires": "2027-01-11T11:37:00+00:00",
+  "required": false,
+  "allowDowngrade": false,
+  "packages": {
+    "Iteru-0.2.1-full.nupkg": "sha256:7eacb4542ca615e1db942e0dfe439551d13f2be29f919cb6a97857ea5e145e1d",
+    "Iteru-0.3.0-delta.nupkg": "sha256:6e8a52cdb381238db6c82d4bc83f4ac57fb9f790a4bd9c875e7dbe66f6511b54",
+    "Iteru-0.3.0-full.nupkg": "sha256:4757803d7353e5302e3ece65706d32640f3f64bae2c491d53de92821b0e246d8"
+  },
+  "installer": {
+    "Iteru-win-Setup.exe": "sha256:b782babe77dd28d21710cf76ca4ab8ff5d128457e48651be3eecc22f5c953117"
+  }
+}
