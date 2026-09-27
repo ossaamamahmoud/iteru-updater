@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "Iteru",
   "channel": "pilot",
-  "version": "0.3.4",
-  "releaseTag": "v0.3.4",
-  "publishedAt": "2026-09-14T09:36:54+00:00",
-  "sequence": 5,
-  "expires": "2027-01-12T09:36:54+00:00",
+  "version": "0.4.1",
+  "releaseTag": "v0.4.1",
+  "publishedAt": "2026-09-27T12:16:55+00:00",
+  "sequence": 6,
+  "expires": "2027-01-25T12:16:55+00:00",
   "required": false,
   "allowDowngrade": false,
   "packages": {
-    "Iteru-0.3.3-full.nupkg": "sha256:2630673470466480f943d8741aa288bde3142b61fc60a4d04edc68ab21efbd7a",
-    "Iteru-0.3.4-delta.nupkg": "sha256:b032b6a278ac50d0f18ca9e14979e99491c13ea0ef951d747cea95c7cc6f8be2",
-    "Iteru-0.3.4-full.nupkg": "sha256:42e1b668713cf4d287b12dad6a6df6be78f33247e10a32107e137615cf75e0b2"
+    "Iteru-0.3.4-full.nupkg": "sha256:42e1b668713cf4d287b12dad6a6df6be78f33247e10a32107e137615cf75e0b2",
+    "Iteru-0.4.1-delta.nupkg": "sha256:4b3415f9b506e463cb5b512768928dae7fb95c222c7b0f28b2d897ba81583609",
+    "Iteru-0.4.1-full.nupkg": "sha256:48653232d2df256e6a655b151725849162896b8afe42f1247b12563d85ac5706"
   },
   "installer": {
-    "Iteru-win-Portable.zip": "sha256:1440ec36d5a1ae9b2dfc6fcb17a0daaff44db53c7d2d17f25a4332c26f25acdb",
-    "Iteru-win-Setup.exe": "sha256:73517393a726813d9aba043eb9f1849b98bb3172b2f5c62f6e1d241d1dfaa958"
+    "Iteru-win-Portable.zip": "sha256:5aa36f2d2b1389a5e3a72431d2b7d6d1925e94cea75dee91bc4d0714f64a7794",
+    "Iteru-win-Setup.exe": "sha256:abc29ff3390bb4f1f8e4ae429f9ea41378fad1b899e5efdb3d64a2d4c5cf11e4"
   }
 }
